@@ -6,7 +6,7 @@ A SilverStripe module which adds additional template functions and methods on da
 
 ## Requirements
 
-*  SilverStripe 2.4
+*  SilverStripe 3.0+ 
 
 ## Installation
 
