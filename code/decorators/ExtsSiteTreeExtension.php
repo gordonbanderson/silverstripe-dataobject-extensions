@@ -38,7 +38,7 @@
  * SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */
 
-class ExtsSiteTreeDecorator extends SiteTreeDecorator {
+class ExtsSiteTreeExtension extends SiteTreeExtension {
 
 	/**
 	 * Return classes for the body (or container!) based on the page type, site
