@@ -37,7 +37,7 @@
  * (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
  * SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */
-class ExtsDataObjectDecorator extends Extension {
+class ExtsDataObjectExtension extends Extension {
 
 	/**
 	* Adds first/last/start/end class to a list item.
